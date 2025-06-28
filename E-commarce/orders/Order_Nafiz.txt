@@ -1,0 +1,25 @@
+ORDER CONFIRMATION
+====================
+Order Date: 2025-06-25 07:16:27
+
+Customer Information:
+---------------------
+Name: Nafiz
+Address: kalkini
+Phone: 01629110324
+
+Payment Method:
+---------------
+Cash on Delivery
+
+Purchased Items:
+----------------
+Walton Air Conditioner x 1 - $1250.00
+Asus Zenbook 14 x 1 - $949.99
+Gucci x 1 - $150.00
+
+
+----------------
+TOTAL BILL: $2349.99
+
+Thank you for your order!

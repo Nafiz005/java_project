@@ -1,0 +1,27 @@
+ORDER CONFIRMATION
+====================
+Order Date: 2025-06-25 20:39:11
+
+Customer Information:
+---------------------
+Name: Nafiz Ahmed
+Address: Madaripur
+Phone: 01629110324
+
+Payment Method:
+---------------
+Cash on Delivery
+
+Purchased Items:
+----------------
+Walton Air Conditioner x 1 - $1250.00
+Gucci x 1 - $150.00
+Dellxps13 x 1 - $890.50
+Hpspectre x 1 - $1320.00
+Toothbrush x 5 - $145.00
+
+
+----------------
+TOTAL BILL: $3755.50
+
+Thank you for your order!

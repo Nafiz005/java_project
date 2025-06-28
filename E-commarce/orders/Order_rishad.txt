@@ -1,0 +1,24 @@
+ORDER CONFIRMATION
+====================
+Order Date: 2025-06-24 20:18:46
+
+Customer Information:
+---------------------
+Name: rishad
+Address: rampura
+Phone: 01753852007
+
+Payment Method:
+---------------
+Cash on Delivery
+
+Purchased Items:
+----------------
+Walton Air Conditioner x 4 - $5000.00
+ThinkpadX1 x 6 - $8104.50
+
+
+----------------
+TOTAL BILL: $13104.50
+
+Thank you for your order!
